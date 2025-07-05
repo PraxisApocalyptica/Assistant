@@ -1,0 +1,11 @@
+{
+    "name": "attendance-core",
+    "version": "1.0.0",
+    "description": "Node.js backend for the Attendance app",
+    "main": "index.js",
+    "dependencies": {
+      "node-fetch": "^2.6.7",
+      "node-cron": "^4.1.0",
+      "dotenv": "16.5.0"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "assistant-node-core",
+    "version": "1.0.0",
+    "description": "Node.js backend for the Assistant app",
+    "main": "app.js",
+    "private": true,
+    "workspaces": [
+      "projects/*"
+    ],
+    "dependencies": {
+      "cors": "^2.8.5"
+    }
+}
