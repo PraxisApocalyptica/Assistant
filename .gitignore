@@ -6,6 +6,7 @@ node_modules/
 .vscode/
 build-*.tar.gz
 debug/
+*.env
 
 # Expo
 .expo/
